@@ -1,0 +1,7 @@
+To Start:
+cd ~/Downloads/Database; git pull
+
+
+
+To end:
+git commmit -am "COMMIT_MESSAGE"; git push
